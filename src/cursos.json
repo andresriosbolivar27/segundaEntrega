@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "nombre": "Desarrollo web",
+        "descripcion": "Html5, CSS3, Javascript",
+        "valor": "$ 200.000",
+        "modalidad": "Virtual",
+        "intensidad": "80h",
+        "estado": "Disponible"
+    },
+    {
+        "id": "2",
+        "nombre": "Programación Con Python",
+        "descripcion": "Python",
+        "valor": "$ 600.000",
+        "modalidad": "Virtual",
+        "intensidad": "140h",
+        "estado": "Diponible"
+    },
+    {
+        "id": "3",
+        "nombre": "Introducción Al Power BI",
+        "descripcion": "Curso de introducción a la herramienta de BI",
+        "valor": "$ 150.000",
+        "modalidad": "Virtual",
+        "intensidad": "30h",
+        "estado": "Cerrado"
+    },
+    {
+        "id": "4",
+        "nombre": "Desarrollo de aplicaciones moviles hibridas",
+        "descripcion": "Html5, CSS3, Javascript, Ionic, Angular, Cordoba, Apache",
+        "valor": "$ 900.000",
+        "modalidad": "Presencial",
+        "intensidad": "180h",
+        "estado": "Disponible"
+    },
+    {
+        "id": "5",
+        "nombre": "Curso de ASP.NET Core 2.2 MVC",
+        "descripcion": "C#, SqlServer, ISS, MVC",
+        "valor": "$ 700.000",
+        "modalidad": "Virtual",
+        "intensidad": "70h",
+        "estado": "Disponible"
+    },
+    {
+        "id": "6",
+        "nombre": "Programacion con PHP",
+        "descripcion": "PHP, MySql, MongoDB",
+        "valor": "$ 200.000",
+        "modalidad": "Virtual",
+        "intensidad": "120h",
+        "estado": "Disponible"
+    },
+    {
+        "id": "7",
+        "nombre": "Xamarin desde cero",
+        "descripcion": "JS",
+        "valor": "200mil",
+        "modalidad": "Presencial",
+        "intensidad": "133h",
+        "estado": "Disponible"
+    },
+    {
+        "id": "8",
+        "nombre": "Curso programacion JAVA dede cero",
+        "descripcion": "Java, Maven, MySql",
+        "valor": "$ 350.000",
+        "modalidad": "Presencial",
+        "intensidad": "124h",
+        "estado": "Cerrado"
+    }
+]

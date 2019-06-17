@@ -1,0 +1,13 @@
+.jumbotron {
+    padding: 4rem 2rem  6px  4rem;
+}
+
+@media (min-width: 1200px) {
+    .container {
+      max-width: 1380px;
+    }
+  }
+
+.mb-0, .my-0 {
+    margin-bottom: 6px!important;
+}
